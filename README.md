@@ -1,7 +1,7 @@
 ## querybuilder
 Go SQL Select builder
 
-```
+```go
 package main
 import (
   "github.com/extranjero/querybuilder"
